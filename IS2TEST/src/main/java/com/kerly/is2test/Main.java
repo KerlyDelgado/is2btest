@@ -10,7 +10,11 @@ package com.kerly.is2test;
  * @author usuario
  */
 public class Main {
+    
     public void Saludo(){
+        
+    }
+    public void Despedida(){
         
     }
     
